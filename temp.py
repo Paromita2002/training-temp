@@ -39,6 +39,7 @@ class DataPlot:
         plt.show()
 DataPlot.Plot1()
 DataPlot.Plot2()
+DataPlot.Plot3()
 DataPlot.Plot4()
         
         
